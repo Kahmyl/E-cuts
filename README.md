@@ -1,2 +1,2 @@
 # E-cuts
-An awesome E-commerce website
+An e-commerce website built with lavarvel/livewire
